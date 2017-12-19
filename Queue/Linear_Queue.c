@@ -14,7 +14,7 @@ void Insert(){
 	printf("Push data : ");
 	scanf(" %c",&data);
 	printf("\n");
-	queue[rear] = data;;
+	queue[rear] = data;
 	rear++;
 }
 
